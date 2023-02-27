@@ -9,5 +9,4 @@ dependencies:
   - matplotlib
   - netCDF4
   - xarray
-  - math
   - scipy
